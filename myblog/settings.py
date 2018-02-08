@@ -26,7 +26,7 @@ SECRET_KEY = 'e(i&#%2-13js(@t$f+2br9*ad47=y$xzyk!x*5uw)u&*-dk!&a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 #ALLOWED_HOSTS即允许外界通过这个url来访问这个url对应的网页
 
 # Application definition
